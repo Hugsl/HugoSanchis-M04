@@ -1,0 +1,18 @@
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    background-image: url('../imagenes/ad.gif');
+    
+}
+header{
+    background-color: rgb(238, 91, 65);
+}
+section{
+    margin-left: 35%;
+    margin-right: 35%;
+    background-color: rgb(238, 91, 65);
+ 
+
+}
+audio { display:none;}

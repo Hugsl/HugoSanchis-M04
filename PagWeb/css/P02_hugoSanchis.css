@@ -1,0 +1,42 @@
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    background-color: #FFFDCE;
+}
+header{
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: #FFFDCE;
+}
+a:link, a:visited{
+    color:rgb(45, 87, 150);
+    text-decoration: none;
+    }
+a:hover{
+    color: #6748f0;
+}
+.aaa{
+ color: aquamarine;
+}
+.hrBLACK{
+    height:2px;
+    background-color:black ;
+}
+.hr90d9f7{
+    height:2px;background-color:#90d9f7;
+}
+.taulaE{
+    margin-left:42% ; 
+}
+.apuntame{
+    background-color:#7ABA96; 
+}
+.finalfooter{
+    background-color:black;
+    text-align: center;
+}
+footer{
+    background-color:black;text-align: center;
+}

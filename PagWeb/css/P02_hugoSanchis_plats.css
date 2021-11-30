@@ -1,0 +1,88 @@
+html {
+    scroll-behavior: smooth;
+  }
+body{
+    background-color: #FFFDCE;
+}
+header{
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  background-color: #FFFDCE;
+}
+
+hr{
+    height:2px;
+    background-color:black ;
+}
+footer{
+    background-color:black;text-align: center;
+}
+a:link, a:visited{
+    text-decoration: none;
+  }
+a:hover{
+  color: #6748f0;
+}
+.afooter{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.anuncio {
+    margin-left: 80%;
+    position: absolute;
+    border: 0px;
+    width: 250px;
+    height: 80px;
+    visibility: hidden;
+    z-index: 200;
+    top: 50%;
+    left: 50%;
+    }
+
+.imgAd{
+    width: 55%;   
+    margin-left: 20%;
+    display: block;
+    
+}
+
+.imgD{
+    width: 25%;
+    height: 50%;
+    margin-left: 35%;
+   
+}
+.imgC{
+    width: 40%;
+    height: 50%;
+    margin-left: 20%;
+   
+}
+
+.asideR{
+    float: right;
+    width: 30%;
+    height: 20%;
+   
+
+};
+.hr90d9f7{
+    height:2px;background-color:#90d9f7;
+}
+.marginNav{
+    margin-left:40% ; 
+}
+.marginH1{
+    margin-left:35% ; 
+}
+.marginE{
+    margin-left:12% ; 
+}
+.apuntame{
+    background-color:#7ABA96; 
+}
+.finalfooter{
+    background-color:black;
+    text-align: center;
+}
