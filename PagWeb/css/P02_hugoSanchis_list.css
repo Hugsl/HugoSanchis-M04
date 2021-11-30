@@ -30,8 +30,8 @@ footer{
     color: whitesmoke;
     text-decoration: none;
 }
-.anuncio {margin-top: 15%;
-    margin-left: 40%;
+.anuncio {margin-top: 10%;
+    margin-left: 80%;
     position: absolute;
     border: 0px;
     width: 250px;
@@ -87,3 +87,4 @@ footer{
     background-color:black;
     text-align: center;
 }
+
