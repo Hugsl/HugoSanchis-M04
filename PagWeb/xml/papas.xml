@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  href="template_plats.xsl" type="text/xsl" ?>
+<plates>
+<plate>
+    <title> Patatas </title>
+    <autor>
+    <nom>Hermenegildo</nom>
+    <dni>12345678Z</dni>
+    </autor>
+    <ingredients>
+        <ingredient> 
+        <nom>Patata</nom> 
+            <quantitat>
+                    <valor>1</valor>
+                    <mesura>Kg</mesura>
+            </quantitat>
+        </ingredient>
+        
+        <ingredient> <nom>Oli</nom> 
+            <quantitat>
+                    <valor>1</valor>
+                    <mesura>L</mesura>
+            </quantitat> </ingredient>
+        
+        
+    </ingredients>
+    <passos>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+    </passos>
+</plate>
+</plates>

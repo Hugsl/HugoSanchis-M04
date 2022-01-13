@@ -10,6 +10,12 @@ header{
   top: 0;
   background-color: #FFFDCE;
 }
+
+aside{
+    float: left;
+    margin-left: 5%;
+    margin-right: -10%;
+}
 a:link, a:visited{
     text-decoration: none;
     color: #413675;
@@ -17,6 +23,7 @@ a:link, a:visited{
 a:hover{
   color: #6748f0;
 }
+
 
 hr{
     height:2px;
@@ -51,7 +58,7 @@ footer{
 
 .imgD{
     width: 25%;
-    height: 50%;
+    height: 20%;
     margin-left: 35%;
    
 }
@@ -77,6 +84,12 @@ footer{
 .marginH1{
     margin-left:35% ; 
 }
+
+.fotos{
+    width: 45%;
+}
+
+
 .marginE{
     margin-left:12% ; 
 }
@@ -87,4 +100,3 @@ footer{
     background-color:black;
     text-align: center;
 }
-

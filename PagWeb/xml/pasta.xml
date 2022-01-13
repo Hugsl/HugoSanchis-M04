@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  href="template_plats.xsl" type="text/xsl" ?>
+<plates>
+<plate>
+    <title> Pasta con salsa de coliflor y pimienta de Jamaica  </title>
+    <autor>
+    <nom>Hermenegildo</nom>
+    <dni>12345678Z</dni>
+    </autor>
+    <ingredients>
+        <ingredient> 
+        <nom>ESPAGUETIS</nom> 
+            <quantitat>
+                    <valor>1</valor>
+                    <mesura>Kg</mesura>
+            </quantitat>
+        </ingredient>
+        
+        <ingredient> <nom>ESPAGUETIS</nom> 
+            <quantitat>
+                    <valor>1</valor>
+                    <mesura>Kg</mesura>
+            </quantitat> </ingredient>
+        
+        <ingredient> <nom>ESPAGUETIS</nom> 
+            <quantitat>
+                    <valor>1</valor>
+                    <mesura>Kg</mesura>
+            </quantitat></ingredient>
+        
+        <ingredient> <nom>ESPAGUETIS</nom> 
+            <quantitat>
+                    <valor>1</valor>
+                    <mesura>Kg</mesura>
+            </quantitat>
+            </ingredient>
+    </ingredients>
+    <passos>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+        <pas> Lorem ipsum dolor sit amet, consectetur adipiscing elit.</pas>
+    </passos>
+</plate>
+</plates>

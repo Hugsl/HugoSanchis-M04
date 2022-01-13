@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="a.xsl"?>
+<catalog>
+  <cd>
+    <title>Private Dancer</title>
+    <artist>Tina Turner</artist>
+    <country>UK</country>
+    <company>Capitol</company>
+    <price>8.90</price>
+    <year>1983</year>
+  </cd>
+  <cd>
+    <title>Pavarotti Gala Concert</title>
+    <artist>Luciano Pavarotti</artist>
+    <country>UK</country>
+    <company>DECCA</company>
+    <price>9.90</price>
+    <year>1991</year>
+  </cd>
+  <cd>
+    <title>Unchain my heart</title>
+    <artist>Joe Cocker</artist>
+    <country>USA</country>
+    <company>EMI</company>
+    <price>8.20</price>
+    <year>1987</year>
+  </cd>
+</catalog>

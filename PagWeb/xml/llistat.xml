@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="llistat.xsl"?>
+<plats>
+  <plat>
+    <foto>../imagenes/Pasta.jpg</foto>
+    <titol> 
+    <url>../xml/pasta.xml</url>
+    <nom>Pasta con salsa de coliflor y pimienta de Jamaica</nom>
+    
+    
+    </titol>
+    <descripcio> Lorem ipsum   </descripcio>
+    <temps>45 min</temps>
+  </plat>
+  
+  <plat>
+    <foto>../imagenes/galletas.jpg</foto>
+    
+    <titol> 
+     <url>/xml/papas.xml</url>
+    <nom>Galletas de avena, rosa y lima</nom>
+    
+    
+    </titol>
+    <descripcio> Lorem ipsum   </descripcio>
+    <temps>Si.</temps>
+  </plat>
+   <plat>
+    <foto>../imagenes/Pasta.jpg</foto>
+    <titol> 
+    <url>/xml/pasta.xml</url>
+    <nom>Pasta con salsa de coliflor y pimienta de Jamaica</nom>
+    
+    
+    </titol>
+    <descripcio> Lorem ipsum   </descripcio>
+    <temps>45 min</temps>
+  </plat>
+  
+  <plat>
+    <foto>../imagenes/galletas.jpg</foto>
+    
+    <titol> 
+     <url>/xml/papas.xml</url>
+    <nom>Galletas de avena, rosa y lima</nom>
+    
+    
+    </titol>
+    <descripcio> Lorem ipsum   </descripcio>
+    <temps>Si.</temps>
+  </plat>
+</plats>
